@@ -1,0 +1,39 @@
+/* XPM */
+static char *sqcap[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20       12            1",
+/* colors */
+". c #313131",
+"# c #444444",
+"a c #464646",
+"b c #585858",
+"c c #5a5a5a",
+"d c #7d7d7d",
+"e c #8a8a8a",
+"f c #c7c7c7",
+"g c #cdcdcd",
+"h c #cecece",
+"i c #fefefe",
+"j c #ffffff",
+/* pixels */
+"iijiiiiiiiiiiiiijjjj",
+"ijjjiiiiiiiiiiiijjjj",
+"jijjjiiiiiiiiiiijjjj",
+"jjjjjiiiiiiiiiiijjjj",
+"jjjjjiiiiiiiiiiijjjj",
+"iijiih.######ciijjjj",
+"iijjjfdiiiiiiaiijjjj",
+"iiiiifdiiiiiiaiijjjj",
+"iiiiifdiiiiiiaiijjjj",
+"iijiifdiiiiiiaiijjjj",
+"iiiiifdiiiiiiaiijjjj",
+"iiiiifdiiiiiiaiijjjj",
+"jijjifdiiiiiiaiijjjj",
+"iijijgeiiiiiibiijjjj",
+"iiiiiiiiiiiiiiiijjjj",
+"ijjiiiiiiiiiiiiijjjj",
+"iijjiiiiiiiiiiiijjjj",
+"iiiiiiiiiiiiiiiijjjj",
+"ijijiiiiiiiiiiiijjjj",
+"iijjiiiiiiiiiiiijjjj"
+};

@@ -1,0 +1,30 @@
+/* XPM */
+static char *bigcurlyvee[] = {
+/* width height num_colors chars_per_pixel */
+"    11    13       10            1",
+/* colors */
+". c #ffffff s background",
+"# c #000000",
+"a c #dddddd",
+"b c #cccccc",
+"c c #aaaaaa",
+"d c #888888",
+"e c #777777",
+"f c #555555",
+"g c #333333",
+"h c #222222",
+/* pixels */
+"bha......fe",
+".chb....he.",
+"..bha..fe..",
+"...de.bg...",
+"....#.fc...",
+"....fc#....",
+"....c#f....",
+"....b#e....",
+".....#c....",
+".....#c....",
+".....#c....",
+".....#c....",
+".....gb....",
+};

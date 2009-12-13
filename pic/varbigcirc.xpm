@@ -1,0 +1,30 @@
+/* XPM */
+static char *varbigcirc[] = {
+/* width height num_colors chars_per_pixel */
+"    13    13       10            1",
+/* colors */
+". c #ffffff s background",
+"# c #000000",
+"a c #dddddd",
+"b c #cccccc",
+"c c #aaaaaa",
+"d c #888888",
+"e c #777777",
+"f c #555555",
+"g c #333333",
+"h c #222222",
+/* pixels */
+"....adffc....",
+"...eeb..cfc..",
+"..ea......cc.",
+".db........ea",
+".f.........ae",
+"bd..........f",
+"cc..........f",
+"bd..........f",
+".f.........ae",
+".db........ea",
+"..ea......cc.",
+"...eeb..cfc..",
+"....adffc...."
+};

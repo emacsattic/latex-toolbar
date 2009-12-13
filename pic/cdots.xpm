@@ -1,0 +1,40 @@
+/* XPM */
+static char *cdots[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20       13            1",
+/* colors */
+". c #0e0e0e",
+"# c #3c3c3c",
+"a c #787878",
+"b c #8a8a8a",
+"c c #a4a4a4",
+"d c #bababa",
+"e c #c3c3c3",
+"f c #e4e4e4",
+"g c #eaeaea",
+"h c #f8f8f8",
+"i c #fdfdfd",
+"j c #fefefe",
+"k c #ffffff",
+/* pixels */
+"jjkjjjjjjjjjjjjjkkkk",
+"jkkkjjjjjjjjjjjjkkkk",
+"kjkkkjjjjjiiijjjkkkk",
+"kkkkkjjjjiiijjjjkkkk",
+"kkkkkjjjjiijjjjjkkkk",
+"jjkjjjjjjiijjjjjkkkk",
+"jjkkkjjjjiijjjjjkkkk",
+"jjjjjjjjjiijjjjjkkkk",
+"jjjjjjjjjiijjjjjkkkk",
+"jjg.djjii#ajjjjd.gkk",
+"jjhbfjjiicejjjjfbhkk",
+"jjjjjjjjjiijjjjjkkkk",
+"kjkkjjjjjiijjjjjkkkk",
+"jjkjkjjjjiijjjjjkkkk",
+"jjjjjjjjjiijjjjjkkkk",
+"jkkjjjjjjiijjjjjkkkk",
+"jjkkjjjjjiiijjjjkkkk",
+"jjjjjjjjjjiiijjjkkkk",
+"jkjkjjjjjjjjjjjjkkkk",
+"jjkkjjjjjjjjjjjjkkkk"
+};

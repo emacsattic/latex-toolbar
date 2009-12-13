@@ -1,0 +1,30 @@
+/* XPM */
+static char *curlywedgedownarrow[] = {
+/* width height num_colors chars_per_pixel */
+"    10    13       10            1",
+/* colors */
+". c #ffffff s background",
+"# c #000000",
+"a c #dddddd",
+"b c #cccccc",
+"c c #aaaaaa",
+"d c #888888",
+"e c #777777",
+"f c #555555",
+"g c #333333",
+"h c #222222",
+/* pixels */
+"....f.....",
+"....f.....",
+"....f.....",
+"....ga....",
+"....#c....",
+"...agd....",
+"...ccf....",
+"...f.f....",
+"..ae.bd...",
+"b.ea..f.b.",
+"cbd...aec.",
+"de.....cf.",
+"ecca..ccea",
+};

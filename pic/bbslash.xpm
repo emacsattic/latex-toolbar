@@ -1,0 +1,30 @@
+/* XPM */
+static char *bbslash[] = {
+/* width height num_colors chars_per_pixel */
+"    9     13       10            1",
+/* colors */
+". c #ffffff s background",
+"# c #000000",
+"a c #dddddd",
+"b c #cccccc",
+"c c #aaaaaa",
+"d c #888888",
+"e c #777777",
+"f c #555555",
+"g c #333333",
+"h c #222222",
+/* pixels */
+"aa.b.....",
+"ae.f.....",
+".f.db....",
+".dbae....",
+".ae.f....",
+"..f.db...",
+"..cc.f...",
+"...f.f...",
+"...f.cc..",
+"...bd.f..",
+"....f.ea.",
+"....eabd.",
+"....bd.f.",
+};

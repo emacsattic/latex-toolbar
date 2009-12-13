@@ -1,0 +1,28 @@
+/* XPM */
+static char *Longmapsto[] = {
+/* width height num_colors chars_per_pixel */
+"    22    10       11            1",
+/* colors */
+". c #ffffff s background",
+"# c #000000",
+"a c #dddddd",
+"b c #cccccc",
+"c c #aaaaaa",
+"d c #888888",
+"e c #777777",
+"f c #555555",
+"g c #444444",
+"h c #333333",
+"i c #222222",
+/* pixels */
+"......................",
+"b...............e.....",
+"f...............ec....",
+"ffffffffffffffffdia...",
+"f................ahd..",
+"f..................if.",
+"f................ahd..",
+"fffffffffffffffff#b...",
+"f...............ec....",
+"b...............e....."
+};

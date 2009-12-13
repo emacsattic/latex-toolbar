@@ -1,0 +1,35 @@
+/* XPM */
+static char *cdot[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20        8            1",
+/* colors */
+". c #272727",
+"# c #373737",
+"a c #c1c1c1",
+"b c #c8c8c8",
+"c c #cdcdcd",
+"d c #d5d5d5",
+"e c #fefefe",
+"f c #ffffff",
+/* pixels */
+"fefefeeeeeeeeeeeffff",
+"eefeeeeeeeeeeeeeffff",
+"fffefeeeeeeeeeeeffff",
+"fffffeefeeeeefeeffff",
+"fffffeeeeeeeeeeeffff",
+"fefefeeeeeeeeeeeffff",
+"efffeeeeeeeeeeeeffff",
+"eeffeeeeeeeeeeeeffff",
+"fffffeeeeabeeeeeffff",
+"fffffeeee.#eeeeeffff",
+"effefeeeecdeeeeeffff",
+"effeeeeeeeeeeeeeffff",
+"fffffeeeeeeeeeeeffff",
+"fffefeeeeeeeeeeeffff",
+"fffffeeeeeeeeeeeffff",
+"fffffeeeeeeeeeeeffff",
+"eefefeeeeeeeeeeeffff",
+"ffffeeeeeeeeeeeeffff",
+"fffffeeeeeeeeeeeffff",
+"fffffeeeeeeeeeeeffff"
+};

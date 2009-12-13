@@ -1,0 +1,25 @@
+/* XPM */
+static char *varodot[] = {
+/* width height ncolors chars_per_pixel */
+"10 10 8 1",
+/* colors */
+"` c #000000",
+"a c #777777",
+"b c #555555",
+"c c #CCCCCC",
+"d c #AAAAAA",
+"e c #888888",
+". c #ffffff s background",
+"g c #DDDDDD",
+/* pixels */
+"..gabbbe..",
+".gag...ca.",
+".b......ce",
+"ce...c...b",
+"dd..a`c..b",
+"dd..ga...b",
+".b......ga",
+".dd.....ag",
+"..dbddebg.",
+"....ddc...",
+};

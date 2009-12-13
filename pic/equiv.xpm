@@ -1,0 +1,38 @@
+/* XPM */
+static char *equiv[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20       11            1",
+/* colors */
+". c #444444",
+"# c #575757",
+"a c #5e5e5e",
+"b c #6b6b6b",
+"c c #8b8b8b",
+"d c #949494",
+"e c #ececec",
+"f c #f1f1f1",
+"g c #f6f6f6",
+"h c #fefefe",
+"i c #ffffff",
+/* pixels */
+"hhihhhhhhhhhhhhhiiii",
+"hiiihhhhhhhhhhhhiiii",
+"ihiiihhhhhhhhhhhiiii",
+"iiiiihhhhhhhhhhhiiii",
+"iiiiihhhhhhhhhhhiiii",
+"hhihhhhhhhhhhhhhiiii",
+"hhiiib########dhiiii",
+"hhhhhfeeeeeeeeghiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hhihha........chiiii",
+"hhhhhiiiiiiiiiihiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"ihiiha........chiiii",
+"hhihihhhhhhhhhhhiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hiihhhhhhhhhhhhhiiii",
+"hhiihhhhhhhhhhhhiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hihihhhhhhhhhhhhiiii",
+"hhiihhhhhhhhhhhhiiii"
+};

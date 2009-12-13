@@ -1,0 +1,33 @@
+/* XPM */
+static char *iint[] = {
+/* width height num_colors chars_per_pixel */
+"    16    16       10            1",
+/* colors */
+". c #ffffff s background",
+"# c #dddddd",
+"a c #cccccc",
+"b c #aaaaaa",
+"c c #888888",
+"d c #777777",
+"e c #555555",
+"f c #333333",
+"g c #222222",
+"h c #000000",
+/* pixels */
+".....bfg#...bfg#",
+".....g.hb...g.hb",
+"....be.b#..be.b#",
+"....be.....be...",
+"....ee.....ee...",
+"....ed.....ed...",
+"....hb.....hb...",
+"....hb.....hb...",
+"....hb.....hb...",
+"...#h#....#h#...",
+"...bh.....bh....",
+"...bf.....bf....",
+"...be.....be....",
+"bh.dc..bh.dc....",
+"ahcg...ahcg.....",
+".ab.....ab......"
+};

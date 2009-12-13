@@ -1,0 +1,35 @@
+/* XPM */
+static char *neg[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20        8            1",
+/* colors */
+". c #444444",
+"# c #454545",
+"a c #464646",
+"b c #4d4d4d",
+"c c #4f4f4f",
+"d c #e4e4e4",
+"e c #fefefe",
+"f c #ffffff",
+/* pixels */
+"eefeeeeeeeeeeeeeffff",
+"efffeeeeeeeeeeeeffff",
+"fefffeeeeeeeeeeeffff",
+"fffffeeeeeeeeeeeffff",
+"fffffeeeeeeeeeeeffff",
+"eefeeeeeeeeeeeeeffff",
+"eefffeeeeeeeeeeeffff",
+"eeeeeeeeeeeeeeeeffff",
+"eeeeed#......beeffff",
+"eefeeeeeeeeeeaeeffff",
+"eeeeeeeeeeeeeaeeffff",
+"eeeeeeeeeeeeeceeffff",
+"feffeeeeeeeeeeeeffff",
+"eefefeeeeeeeeeeeffff",
+"eeeeeeeeeeeeeeeeffff",
+"effeeeeeeeeeeeeeffff",
+"eeffeeeeeeeeeeeeffff",
+"eeeeeeeeeeeeeeeeffff",
+"efefeeeeeeeeeeeeffff",
+"eeffeeeeeeeeeeeeffff"
+};

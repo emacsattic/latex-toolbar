@@ -1,0 +1,28 @@
+/* XPM */
+static char *leftrightarrowtriangle[] = {
+/* width height num_colors chars_per_pixel */
+"    13    10       11            1",
+/* colors */
+". c #ffffff s background",
+"# c #dddddd",
+"a c #cccccc",
+"b c #aaaaaa",
+"c c #888888",
+"d c #777777",
+"e c #555555",
+"f c #444444",
+"g c #333333",
+"h c #222222",
+"i c #000000",
+/* pixels */
+".............",
+".............",
+".............",
+"...#ea..dc...",
+"..ddcb..eaeb.",
+"ah#.bgeeh..cg",
+".aecbb..e#dd#",
+"...aga..dd#..",
+".............",
+"............."
+};

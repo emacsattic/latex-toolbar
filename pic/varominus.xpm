@@ -1,0 +1,26 @@
+/* XPM */
+static char *varominus[] = {
+/* width height ncolors chars_per_pixel */
+"10 10 9 1",
+/* colors */
+"` c #777777",
+"a c #555555",
+"b c #333333",
+"c c #CCCCCC",
+"d c #AAAAAA",
+"e c #888888",
+". c #ffffff s background",
+"g c #DDDDDD",
+"h c #222222",
+/* pixels */ 
+"..g`aaae..",
+".g`g...c`.",
+".a......ce",
+"ce.......a",
+"dbaaaaaaah",
+"dd.......a",
+".a......g`",
+".dd.....`g",
+"..daddeag.",
+"....ddc...",
+};

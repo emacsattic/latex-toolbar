@@ -1,0 +1,33 @@
+/* XPM */
+static char *lbag[] = {
+/* width height num_colors chars_per_pixel */
+"    9     15       11            1",
+/* colors */
+". c #ffffff s background",
+"# c #000000",
+"a c #dddddd",
+"b c #cccccc",
+"c c #aaaaaa",
+"d c #888888",
+"e c #777777",
+"f c #555555",
+"g c #444444",
+"h c #333333",
+"i c #222222",
+/* pixels */
+"..ac.....",
+".aece....",
+".aa.f....",
+"....f....",
+"...ae....",
+"...cc....",
+"...f.....",
+"...f.....",
+"...f.....",
+"..cc.....",
+"..cc.....",
+"..cc.....",
+"..cc.....",
+"...edb...",
+"....bb..."
+};

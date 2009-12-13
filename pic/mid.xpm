@@ -1,0 +1,32 @@
+/* XPM */
+static char *mid[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20        5            1",
+/* colors */
+". c #a2a2a2",
+"# c #cecece",
+"a c #e4e4e4",
+"b c #fefefe",
+"c c #ffffff",
+/* pixels */
+"cbcbcbbbbbbbbbbbcccc",
+"bbcbbbbbbbbbbbbbcccc",
+"cccbcbbbb##bbbbbcccc",
+"cccccbbcb..bbcbbcccc",
+"cccccbbbb..bbbbbcccc",
+"cbcbcbbbb..bbbbbcccc",
+"bcccbbbbb..bbbbbcccc",
+"bbccbbbbb..bbbbbcccc",
+"cccccbbbb..bbbbbcccc",
+"cccccbbbb..bbbbbcccc",
+"bccbcbbbb..bbbbbcccc",
+"bccbbbbbb..bbbbbcccc",
+"cccccbbbb..bbbbbcccc",
+"cccbcbbbb..bbbbbcccc",
+"cccccbbbb..bbbbbcccc",
+"cccccbbbb..bbbbbcccc",
+"bbcbcbbbb..bbbbbcccc",
+"ccccbbbbbaabbbbbcccc",
+"cccccbbbbbbbbbbbcccc",
+"cccccbbbbbbbbbbbcccc"
+};

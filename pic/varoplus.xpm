@@ -1,0 +1,26 @@
+/* XPM */
+static char *varoplus[] = {
+/* width height ncolors chars_per_pixel */
+"10 10 9 1",
+/* colors */
+"` c #777777",
+"a c #555555",
+"b c #333333",
+"c c #CCCCCC",
+"d c #AAAAAA",
+"e c #888888",
+". c #ffffff s background",
+"g c #DDDDDD",
+"h c #222222",
+/* pixels */
+"..g`ahae..",
+".g`g.a.c`.",
+".a...a..ce",
+"ce...a...a",
+"dbaaahaaah",
+"dd...a...a",
+".a...a..g`",
+".dd..a..`g",
+"..dadbeag.",
+"....ddc...",
+};

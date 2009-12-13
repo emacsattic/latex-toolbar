@@ -1,0 +1,38 @@
+/* XPM */
+static char *doteq[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20       11            1",
+/* colors */
+". c #2d2d2d",
+"# c #444444",
+"a c #4f4f4f",
+"b c #6b6b6b",
+"c c #a9a9a9",
+"d c #c9c9c9",
+"e c #dddddd",
+"f c #e8e8e8",
+"g c #f1f1f1",
+"h c #fefefe",
+"i c #ffffff",
+/* pixels */
+"hhihhhhhhhhhhhhhiiii",
+"hiiihhhhhhhhhhhhiiii",
+"ihiiihhhhhhhhhhhiiii",
+"iiiiihhhhhhhhhhhiiii",
+"iiiiihhhhhhhhhhhiiii",
+"hhihhhhhhfghhhhhiiii",
+"hhiiihhhh.bhhhhhiiii",
+"hhhhhhhhhdehhhhhiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hhihha########chiiii",
+"hhhhhiiiiiiiiiihiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"ihiiha########chiiii",
+"hhihihhhhhhhhhhhiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hiihhhhhhhhhhhhhiiii",
+"hhiihhhhhhhhhhhhiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hihihhhhhhhhhhhhiiii",
+"hhiihhhhhhhhhhhhiiii"
+};

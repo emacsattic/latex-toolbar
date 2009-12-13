@@ -1,0 +1,41 @@
+/* XPM */
+static char *rfloor[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20       14            1",
+/* colors */
+". c #404040",
+"# c #454545",
+"a c #464646",
+"b c #767676",
+"c c #777777",
+"d c #8c8c8c",
+"e c #9c9c9c",
+"f c #a5a5a5",
+"g c #c8c8c8",
+"h c #c9c9c9",
+"i c #d5d5d5",
+"j c #fdfdfd",
+"k c #fefefe",
+"l c #ffffff",
+/* pixels */
+"llllkkjkkkkkkjklklkl",
+"llllkjjkkkkkkjjkklkk",
+"lllljjkkjjejkkjlklll",
+"lllljjlkjjajlkjlllll",
+"lllljkkkjjajjkklllll",
+"lllljkkjjjajjkkljlkl",
+"lllljkkjjjajjkkjlllk",
+"lllljkkkjkajkkkjllkk",
+"llllkkkkkkakkkklllll",
+"llllkkkkkkakkkklllll",
+"llllkkkkkkakkkkljllk",
+"llllkkkkkjajkkkjjllk",
+"lllljkkkkj#kkkklllll",
+"lllljkkkkk#kkkkljlll",
+"lllljkkkjj#jkkklllll",
+"lllljkkkjkajkkklllll",
+"lllljjkigh.jkkjlklkk",
+"lllljjkfbcdjkjjjllll",
+"llllkjjkjjjjkjjlllll",
+"llllkkjkkkkkkjklllll"
+};

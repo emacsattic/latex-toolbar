@@ -1,0 +1,43 @@
+/* XPM */
+static char *rightharpoondown[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20       16            1",
+/* colors */
+". c #313131",
+"# c #323232",
+"a c #3d3d3d",
+"b c #515151",
+"c c #717171",
+"d c #9d9d9d",
+"e c #a3a3a3",
+"f c #c7c7c7",
+"g c #d9d9d9",
+"h c #dbdbdb",
+"i c #e2e2e2",
+"j c #e9e9e9",
+"k c #f0f0f0",
+"l c #f1f1f1",
+"m c #fefefe",
+"n c #ffffff",
+/* pixels */
+"nnnnmmmmmmmmmmmnnnnn",
+"nnnnmmmmmmmmmmmnnnnn",
+"nnnnmmmmmmmmmmmmnnnn",
+"nnnnmmmmmmmmmmmnmnmm",
+"nnnnmmmmmmmmmmmnnnnn",
+"nnnnmmmmmmmmmmmnnnnn",
+"nnnnmmmmmmmmmmmnmnnn",
+"nnnnmmmmmmmmmmmnnnnn",
+"nnnnmmmmmmmmmmmmmnnm",
+"nnnnmmmmmmmmmmmnmnnm",
+"nnnkddddddddddddgnnn",
+"nnnleeeeeeeeeeb.hnnn",
+"nnnnmmmmmmmmmf#jnnmm",
+"nnnnmmmmmmmmmagmnnnm",
+"nnnnmmmmmmmmicmnmnmn",
+"nnnnmmmmmmmmmmmnnnnn",
+"nnnnmmnmmmmmnmmnnnnn",
+"nnnnmmmmmmmmmmmnmnnn",
+"nnnnmmmmmmmmmmmmmnmm",
+"nnnnmmmmmmmmmmmnmnmn"
+};

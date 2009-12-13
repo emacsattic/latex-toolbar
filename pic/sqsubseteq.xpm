@@ -1,0 +1,38 @@
+/* XPM */
+static char *sqsubseteq[] = {
+/* width height num_colors chars_per_pixel */
+"    20    20       11            1",
+/* colors */
+". c #373737",
+"# c #3c3c3c",
+"a c #444444",
+"b c #8a8a8a",
+"c c #9a9a9a",
+"d c #9b9b9b",
+"e c #a1a1a1",
+"f c #a9a9a9",
+"g c #bbbbbb",
+"h c #fefefe",
+"i c #ffffff",
+/* pixels */
+"hhihhhhhhhhhhhhhiiii",
+"hiiihhhhhhhhhhhhiiii",
+"ihiiihhhhhhhhhhhiiii",
+"iiiiihhhhhhhhhhhiiii",
+"iiiiid#aaaaaaachiiii",
+"hhihhbghhhhhhhhhiiii",
+"hhiiibghhhhhhhhhiiii",
+"hhhhhbghhhhhhhhhiiii",
+"hhhhhbghhhhhhhhhiiii",
+"hhihhbghhhhhhhhhiiii",
+"hhhhhbghhhhhhhhhiiii",
+"hhhhhbghhhhhhhhhiiii",
+"ihiihe.aaaaaaachiiii",
+"hhihihhhhhhhhhhhiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hiihhfaaaaaaaachiiii",
+"hhiihhhhhhhhhhhhiiii",
+"hhhhhhhhhhhhhhhhiiii",
+"hihihhhhhhhhhhhhiiii",
+"hhiihhhhhhhhhhhhiiii"
+};
